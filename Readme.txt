@@ -9,3 +9,10 @@ Blockchain can be used to act as the single source of truth.
 The shop keepers, who are ready to help should enroll first. They are issued digital certs to transact in blockchain. 
 
 Barcode is scanned before sending aid to disaster hit region. Thus the amount of help done by an individual is logged, who can be later payed.
+
+
+TODO:
+
+1). Code is not complete yet.
+2). Use fabric-ca to generate certs.
+3). HL Fabric as backend (docker).
